@@ -1,29 +1,65 @@
-html, body { height: 100%; padding:0; margin: 0; }
+html, body { 
+	height: 100%; 
+	padding:0px; 
+	margin: 0;
+}
 
 div.alpha { 
 	width: 50%; 
 	height: 50%; 
 	float: left; 
 	display: table;
+
 }
 
-div.topper {
-	
+.top {
 	position: absolute;
 	width: 100%;
-	text-align: center;
+	background-color:black;
+	height: 10px;
+}
+
+.left {
+	position: absolute;
+	height: 100%;
+	background-color: black;
+	width: 10px;
+	float: left;
+}
+
+.right {
+	position: absolute; 
+	right: 0;
+	height: 100%;
+	background-color: black;
+	width: 10px;
+}
+
+.bottom {
+	position: absolute; 
+	bottom: 0;
+	width: 100%;
+	background-color: black;
+	height: 10px;
 
 }
 
-.topperText {
-	font-family: helvetica;
-	color:black;
+
+#div1 { 
+	background-color: #ffffff;
 }
 
-#div1 { background-color: #ffffff;}
-#div2 { background-color: #ffffff;}
-#div3 { background-color: #ffffff;}
-#div4 { background-color: #ffffff;}
+#div2 { 
+	background-color: #ffffff;
+}
+
+#div3 { 
+	background-color: #ffffff;
+}
+
+#div4 { 
+	background-color: #ffffff;
+}
 
 #div1:hover { 
 	background-color: #7CFC00;
