@@ -9,6 +9,8 @@ div.alpha {
 	height: 50%; 
 	float: left; 
 	display: table;
+	color:#505050 ;
+
 
 }
 
@@ -26,35 +28,39 @@ div.alpha {
 .top {
 	position: absolute;
 	width: 100%;
-	background-color:black;
-	height: 20px;
+	background-color:#707070;
+	height: 15px;
 	border-top-style: solid;
 	border-top-width: 3px;
 	border-top-color: white;
 	margin-left: 3px;
 	margin-right: 3px;
+	color:white;
+	text-align: center;
+	font-family: helvetica;
 
 }
 
 .left {
 	position: absolute;
 	height: 100%;
-	background-color: black;
-	width: 20px;
+	background-color: #707070;
+	width: 15px;
 	float: left;
 	border-left-style: solid;
 	border-left-width: 3px;
 	border-left-color: white;
 	margin-top: 3px;
 	margin-bottom: 3px;
+
 }
 
 .bottom {
 	position: absolute; 
 	bottom: 0;
 	width: 100%;
-	background-color: black;
-	height: 20px;
+	background-color:#707070;
+	height: 15px;
 	border-bottom-style: solid;
 	border-bottom-width: 3px;
 	border-bottom-color: white;
@@ -68,8 +74,8 @@ div.alpha {
 	position: absolute; 
 	right: 0;
 	height: 100%;
-	background-color: black;
-	width: 20px;
+	background-color:#707070;
+	width: 15px;
 	border-right-style: solid;
 	border-right-width: 3px;
 	border-right-color: white;
@@ -123,10 +129,29 @@ p {
   display: table-cell; 
   vertical-align: middle; 
   text-align: center; 
-  font-size: 5em;
+  font-size: 550%;
   font-family: vera-sans, sans-serif;
   font-weight: bold;
-  
- 
+}
+
+
   
 }
+
+a {
+
+	
+}
+
+a:link {
+	text-decoration: none;
+	
+}
+
+
+
+
+
+
+
+
