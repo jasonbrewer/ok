@@ -19,76 +19,6 @@ div.alpha {
 
 	}
 
-/*.patch {
-	position: absolute;
-	width: 25px;
-	height: 3px;
-	background-color: white;
-	right:0;
-	bottom:0;
-	z-index: 1;
-
-}
-
-.top {
-	position: absolute;
-	width: 100%;
-	background-color:#707070;
-	height: 15px;
-	border-top-style: solid;
-	border-top-width: 3px;
-	border-top-color: white;
-	margin-left: 3px;
-	margin-right: 3px;
-	color:white;
-	text-align: center;
-	font-family: helvetica;
-
-}
-
-.left {
-	position: absolute;
-	height: 100%;
-	background-color: #707070;
-	width: 15px;
-	float: left;
-	border-left-style: solid;
-	border-left-width: 3px;
-	border-left-color: white;
-	margin-top: 3px;
-	margin-bottom: 3px;
-
-}
-
-.bottom {
-	position: absolute; 
-	bottom: 0;
-	width: 100%;
-	background-color:#707070;
-	height: 15px;
-	border-bottom-style: solid;
-	border-bottom-width: 3px;
-	border-bottom-color: white;
-	margin-left: 3px;
-	margin-right: 3px;
-
-}
-
-
-.right {
-	position: absolute; 
-	right: 0;
-	height: 100%;
-	background-color:#707070;
-	width: 15px;
-	border-right-style: solid;
-	border-right-width: 3px;
-	border-right-color: white;
-	margin-bottom: 3px;
-	margin-top: 3px;
-
-
-}*/
 
 
 
@@ -141,7 +71,7 @@ p {
 
 
   
-}
+
 
 a {
 
