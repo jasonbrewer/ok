@@ -14,7 +14,12 @@ div.alpha {
 
 }
 
-.patch {
+.top {
+	position: absolute;
+
+	}
+
+/*.patch {
 	position: absolute;
 	width: 25px;
 	height: 3px;
@@ -83,7 +88,7 @@ div.alpha {
 	margin-top: 3px;
 
 
-}
+}*/
 
 
 
